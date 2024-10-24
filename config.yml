@@ -1,0 +1,11 @@
+landscapeMemberClasses:
+   - name: Premier Membership
+     category: Premier
+   - name: General Membership
+     category: General
+   - name: Associate Membership
+     category: Associate
+   - name: Startup
+     category: Startup
+slug: ccc
+landscapeMemberCategory: Confidential Computing Consortium Member Company

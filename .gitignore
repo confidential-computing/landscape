@@ -43,3 +43,19 @@ data.json
 preview.json
 lookup.json
 landscapeapp
+missing.csv
+landscape.sqlite
+githubapi.sqlite
+missing-projects.csv
+build/
+
+# data files used by scripts
+tooling/*.csv
+tooling/*.yml
+tooling/*.yaml
+tooling/*.txt
+tooling/*.json
+
+build/
+landscape.sqlite
+githubapi.sqlite
