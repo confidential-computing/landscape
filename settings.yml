@@ -1,37 +1,25 @@
-# Landscape2 settings
-#
-# This settings file allows customizing some aspects of the landscape.
-#
-# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/settings.yml
-
 foundation: CCC
-
 url: http://landscape.confidentialcomputing.io/
-
 colors:
-  color1: "rgba(0, 107, 204, 1)"
-  color2: "rgba(255, 0, 170, 1)"
-  color3: "rgba(96, 149, 214, 1)"
-  color4: "rgba(0, 42, 81, 0.7)"
-  color5: "rgba(1, 107, 204, 0.7)"
-  color6: "rgba(0, 42, 81, 0.7)"
-  color7: "rgba(180, 219, 255, 1)"
-
+  color1: rgba(0, 107, 204, 1)
+  color2: rgba(255, 0, 170, 1)
+  color3: rgba(96, 149, 214, 1)
+  color4: rgba(0, 42, 81, 0.7)
+  color5: rgba(1, 107, 204, 0.7)
+  color6: rgba(0, 42, 81, 0.7)
+  color7: rgba(180, 219, 255, 1)
 footer:
   links:
-    github: "https://github.com/confidential-computing"
-    homepage: "https://confidentialcomputing.io"
-    linkedin: "https://www.linkedin.com/company/confidential-computing/"
-    slack: "http://slack.confidentialcomputing.io"
-    twitter: "https://twitter.com/confidentialc2"
-    youtube: "https://www.youtube.com/@confidentialcomputingconso5871"
-  logo: "http://confidentialcomputing.io/wp-content/uploads/sites/10/2022/07/Logo_White.svg"
-
+    github: https://github.com/confidential-computing
+    homepage: https://confidentialcomputing.io
+    linkedin: https://www.linkedin.com/company/confidential-computing/
+    slack: http://slack.confidentialcomputing.io
+    twitter: https://twitter.com/confidentialc2
+    youtube: https://www.youtube.com/@confidentialcomputingconso5871
+  logo: http://confidentialcomputing.io/wp-content/uploads/sites/10/2022/07/Logo_White.svg
 grid_items_size: large
-
 header:
   links:
-    github: "https://github.com/confidential-computing/landscape"
-  logo: "https://confidentialcomputing.io/wp-content/uploads/sites/10/2022/07/cc_consortium-color.svg"
-
+    github: https://github.com/confidential-computing/landscape
+  logo: https://confidentialcomputing.io/wp-content/uploads/sites/10/2022/07/cc_consortium-color.svg
 screenshot_width: 1500
