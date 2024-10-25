@@ -8,71 +8,71 @@ landscape:
           - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
+            project: null
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
-            project: null
           - item:
             name: Arm Limited
             homepage_url: https://arm.com/
+            project: null
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
-            project: null
           - item:
             name: Google LLC
             homepage_url: https://google.com/
+            project: null
             logo: google_llc.svg
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
-            project: null
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
+            project: null
             logo: huawei_technologies_co.svg
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
-            project: null
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
+            project: null
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
-            project: null
           - item:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
+            project: null
             logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
-            project: null
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
+            project: null
             logo: microsoft_corporation.svg
             twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
-            project: null
           - item:
             name: NVIDIA Corporation
             homepage_url: https://nvidia.com/
+            project: null
             logo: nvidia_corporation.svg
             twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
-            project: null
           - item:
             name: Red Hat, Inc.
             homepage_url: https://redhat.com/
+            project: null
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            project: null
           - item:
             name: TikTok Inc.
             homepage_url: https://tiktok.com/
-            logo: tiktok_inc.svg
             project: null
+            logo: tiktok_inc.svg
             organization:
               name: TikTok Inc.
               linkedin: https://www.linkedin.com/company/tiktok
@@ -82,275 +82,275 @@ landscape:
           - item:
             name: Ampere Computing
             homepage_url: https://amperecomputing.com/
+            project: null
             logo: ampere_computing.svg
             twitter: https://twitter.com/AmpereComputing
             crunchbase: https://www.crunchbase.com/organization/ampere-computing
-            project: null
           - item:
             name: Anjuna Security, Inc.
             homepage_url: https://anjuna.io/
+            project: null
             logo: anjuna_security_inc.svg
             twitter: https://twitter.com/anjuna_security
             crunchbase: https://www.crunchbase.com/organization/anjuna
-            project: null
           - item:
             name: Ant Group Co., Ltd.
             homepage_url: https://antgroup.com/
+            project: null
             logo: ant_group_co_ltd.svg
             twitter: https://twitter.com/AntGroup
             crunchbase: https://www.crunchbase.com/organization/ant-financial
-            project: null
           - item:
             name: CanaryBit
             homepage_url: https://canarybit.eu/
+            project: null
             logo: canarybit.svg
             twitter: https://twitter.com/canarybit
-            project: null
             organization:
               name: CanaryBit
               linkedin: https://www.linkedin.com/company/canarybit
           - item:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
+            project: null
             logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-            project: null
           - item:
             name: Cisco Systems, Inc.
             homepage_url: https://cisco.com/
+            project: null
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
-            project: null
           - item:
             name: Edgeless Systems
             homepage_url: https://edgeless.systems/
+            project: null
             logo: edgeless_systems.svg
             twitter: https://twitter.com/EdgelessSystems
             crunchbase: https://www.crunchbase.com/organization/edgeless-systems
-            project: null
           - item:
             name: enclaive
             homepage_url: https://enclaive.cloud/
-            logo: enclaive.svg
             project: null
+            logo: enclaive.svg
             organization:
               name: enclaive
               linkedin: https://www.linkedin.com/company/enclaive
           - item:
             name: Enveil
             homepage_url: https://enveil.com/
+            project: null
             logo: enveil.svg
             twitter: https://twitter.com/enveil_inc
             crunchbase: https://www.crunchbase.com/organization/enveil-inc
-            project: null
           - item:
             name: Ethernity CLOUD
             homepage_url: https://ethernity.cloud/
+            project: null
             logo: ethernity_cloud.svg
             twitter: https://twitter.com/Ethernity_cloud
-            project: null
             organization:
               name: Ethernity CLOUD
               linkedin: https://www.linkedin.com/company/ethernitycloud
           - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
+            project: null
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            project: null
           - item:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
             homepage_url: https://oppo.com/
+            project: null
             logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
             twitter: https://twitter.com/oppo
             crunchbase: https://www.crunchbase.com/organization/oppo
-            project: null
           - item:
             name: Hushmesh
             homepage_url: https://hushmesh.com/
-            logo: hushmesh.svg
             project: null
+            logo: hushmesh.svg
             organization:
               name: Hushmesh
               linkedin: https://www.linkedin.com/company/hushmesh
           - item:
             name: iExec Blockchain Tech
             homepage_url: https://iex.ec/
+            project: null
             logo: iexec_blockchain_tech.svg
             twitter: https://twitter.com/iEx_ec
             crunchbase: https://www.crunchbase.com/organization/iexec
-            project: null
           - item:
             name: Marvell Semiconductors Ltd
             homepage_url: https://marvell.com/
+            project: null
             logo: marvell_semiconductors_ltd.svg
             twitter: https://twitter.com/MarvellTech
             crunchbase: https://www.crunchbase.com/organization/marvell-technology
-            project: null
           - item:
             name: Opaque Systems Inc.
             homepage_url: https://opaque.co/
+            project: null
             logo: opaque_systems_inc.svg
             twitter: https://twitter.com/opaquesys
-            project: null
             organization:
               name: Opaque Systems Inc.
               linkedin: https://www.linkedin.com/company/opaquesystems
           - item:
             name: Rivos Inc
             homepage_url: https://rivosinc.com/
-            logo: rivos_inc.svg
             project: null
+            logo: rivos_inc.svg
             organization:
               name: Rivos Inc
               linkedin: https://www.linkedin.com/company/rivos-inc
           - item:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
+            project: null
             logo: samsung_electronics_co_ltd.svg
             twitter: https://twitter.com/Samsung
             crunchbase: https://www.crunchbase.com/organization/samsung-electronics
-            project: null
           - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
+            project: null
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            project: null
           - item:
             name: Ultraviolet Consult DOO
             homepage_url: https://ultraviolet.rs/
-            logo: ultraviolet_consult_doo.svg
             project: null
+            logo: ultraviolet_consult_doo.svg
             organization:
               name: Ultraviolet Consult DOO
               linkedin: https://www.linkedin.com/company/ultravioletrs
           - item:
             name: VMware LLC
             homepage_url: https://vmware.com/
+            project: null
             logo: vmware_llc.svg
             twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
-            project: null
       - subcategory:
         name: Associate
         items:
           - item:
             name: Acurast
             homepage_url: https://acurast.com/
-            logo: acurast.svg
             project: null
+            logo: acurast.svg
             organization:
               name: Acurast
               linkedin: https://www.linkedin.com/company/acurast-association
           - item:
             name: DLT Research Foundation
             homepage_url: https://dltresearchfoundation.org/
-            logo: dlt_research_foundation.svg
             project: null
+            logo: dlt_research_foundation.svg
             organization:
               name: DLT Research Foundation
           - item:
             name: Linaro Limited
             homepage_url: https://linaro.org/
+            project: null
             logo: linaro_limited.svg
             twitter: https://twitter.com/LinaroOrg
             crunchbase: https://www.crunchbase.com/organization/linaro
-            project: null
           - item:
             name: MIT Connection Science
             homepage_url: https://mit.edu/
+            project: null
             logo: mit_connection_science.svg
             twitter: https://twitter.com/MIT
             crunchbase: https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit
-            project: null
           - item:
             name: Oasis Protocol Foundation
             homepage_url: https://oasisprotocol.org/
+            project: null
             logo: oasis_protocol_foundation.svg
             twitter: https://twitter.com/OasisProtocol
-            project: null
             organization:
               name: Oasis Protocol Foundation
               linkedin: https://www.linkedin.com/company/oasisprotocol
           - item:
             name: RISC-V International
             homepage_url: https://riscv.org/
+            project: null
             logo: risc_v_international.svg
             twitter: https://twitter.com/risc_v
             crunchbase: https://www.crunchbase.com/organization/risc-v
-            project: null
           - item:
             name: Shanghai Jiao Tong University
             homepage_url: https://en.sjtu.edu.cn/
+            project: null
             logo: shanghai_jiao_tong_university.svg
             twitter: https://twitter.com/sjtuhpc
             crunchbase: https://www.crunchbase.com/organization/shanghai-jiao-tong-university
-            project: null
       - subcategory:
         name: Startup
         items:
           - item:
             name: Arcium Association
             homepage_url: https://arcium.com/
-            logo: arcium_association.svg
             project: null
+            logo: arcium_association.svg
             organization:
               name: Arcium Association
           - item:
             name: Automata Network
             homepage_url: https://ata.network/
-            logo: automata_network.svg
             project: null
+            logo: automata_network.svg
             organization:
               name: Automata Network
               linkedin: https://www.linkedin.com/company/automatanetwork
           - item:
             name: Common Tools
             homepage_url: https://common.tools/
-            logo: common_tools.svg
             project: null
+            logo: common_tools.svg
             organization:
               name: Common Tools
           - item:
             name: Fr0ntierX Inc
             homepage_url: https://fr0ntierx.com/
+            project: null
             logo: fr0ntierx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/fr0ntierx
-            project: null
           - item:
             name: Invary
             homepage_url: https://invary.com/
-            logo: invary.svg
             project: null
+            logo: invary.svg
             organization:
               name: Invary
               linkedin: https://www.linkedin.com/company/invary
           - item:
             name: Partisia
             homepage_url: https://partisia.com/
-            logo: partisia.svg
             project: null
+            logo: partisia.svg
             organization:
               name: Partisia
               linkedin: https://www.linkedin.com/company/partisia
           - item:
             name: SETIT Solutions
             homepage_url: https://setitonline.com/
-            logo: setit_solutions.svg
             project: null
+            logo: setit_solutions.svg
             organization:
               name: SETIT Solutions
               linkedin: https://www.linkedin.com/company/setit-solutions
           - item:
             name: Super Protocol
             homepage_url: https://superprotocol.com/
-            logo: super_protocol.svg
             project: null
+            logo: super_protocol.svg
             organization:
               name: Super Protocol
               linkedin: https://www.linkedin.com/company/superprotocol
