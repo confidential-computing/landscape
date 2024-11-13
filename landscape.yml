@@ -323,6 +323,13 @@ landscape:
             logo: fr0ntierx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/fr0ntierx
           - item:
+            name: Honeypotz
+            homepage_url: https://aistudio.ml/
+            project: null
+            logo: honeypotz.svg
+            organization:
+              name: Honeypotz
+          - item:
             name: Invary
             homepage_url: https://invary.com/
             project: null
