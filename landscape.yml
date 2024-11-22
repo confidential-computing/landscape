@@ -301,13 +301,6 @@ landscape:
               name: Partisia
               linkedin: https://www.linkedin.com/company/partisia
           - item:
-            name: SETIT Solutions
-            homepage_url: https://setitonline.com/
-            logo: setit_solutions.svg
-            organization:
-              name: SETIT Solutions
-              linkedin: https://www.linkedin.com/company/setit-solutions
-          - item:
             name: Super Protocol
             homepage_url: https://superprotocol.com/
             logo: super_protocol.svg
