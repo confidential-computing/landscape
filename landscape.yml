@@ -253,6 +253,12 @@ landscape:
             logo: shanghai_jiao_tong_university.svg
             twitter: https://twitter.com/sjtuhpc
             crunchbase: https://www.crunchbase.com/organization/shanghai-jiao-tong-university
+          - item:
+            name: The MITRE Corporation
+            homepage_url: https://mitre.org/
+            logo: the_mitre_corporation.svg
+            twitter: https://twitter.com/MITREcorp
+            crunchbase: https://www.crunchbase.com/organization/mitre
       - subcategory:
         name: Startup
         items:
@@ -307,3 +313,9 @@ landscape:
             organization:
               name: Super Protocol
               linkedin: https://www.linkedin.com/company/superprotocol
+          - item:
+            name: The SIMI Group
+            homepage_url: https://simigroup.com/
+            logo: the_simi_group.svg
+            organization:
+              name: The SIMI Group
