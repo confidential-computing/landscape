@@ -7,62 +7,128 @@ landscape:
         items:
           - item:
             name: Advanced Micro Devices (AMD)
+            description: >-
+              For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for
+              gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific
+              research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are
+              focused on building great products that push the boundaries of what is possible.
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
           - item:
             name: Arm Limited
+            description: >-
+              ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing
+              that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare,
+              infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990
+              and is headquartered in the UK.
             homepage_url: https://arm.com/
             logo: arm_limited.svg
             twitter: https://twitter.com/ArmCommunity
             crunchbase: https://www.crunchbase.com/organization/arm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
           - item:
             name: Google LLC
+            description: >-
+              Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search
+              engine, software, cloud computing, and advertising technologies.
             homepage_url: https://google.com/
             logo: google_llc.svg
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
+            extra:
+              linkedin_url: https://www.linkedin.com/company/google
           - item:
             name: Huawei Technologies Co., Ltd
+            description: >-
+              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
+              Shenzhen, China.
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
           - item:
             name: Intel Corporation
+            description: >-
+              Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers
+              microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical
+              disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based
+              sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It
+              serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial,
+              communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
           - item:
             name: Meta Platforms, Inc.
+            description: >-
+              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company
+              that provides various products to connect and share.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
           - item:
             name: Microsoft Corporation
+            description: >-
+              The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
+              develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
+              include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
             twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: NVIDIA Corporation
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
             homepage_url: https://nvidia.com/
             logo: nvidia_corporation.svg
             twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nvidia
           - item:
             name: Red Hat, Inc.
+            description: >-
+              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
+              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
+              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
+              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
             name: TikTok Inc.
+            description: >-
+              TikTok is a short form video hosting service owned by the Chinese company ByteDance. It hosts user submitted videos, which can range in duration
+              from 15 seconds to 10 minutes. TikTok is the leading destination for short form mobile video and our missio...
+
+
+              --- Merged Data:
+
+
+              TikTok is a short form video hosting service owned by the Chinese company ByteDance. It hosts user submitted videos, which can range in duration
+              from 15 seconds to 10 minutes. TikTok is the leading destination for short form mobile video and our missio...
             homepage_url: https://tiktok.com/
             logo: tiktok_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tiktok
             organization:
               name: TikTok Inc.
               linkedin: https://www.linkedin.com/company/tiktok
@@ -71,147 +137,261 @@ landscape:
         items:
           - item:
             name: Ampere Computing
+            description: >-
+              Ampere is designing the future of hyperscale cloud and edge computing with its 64-bit Arm server processor architecture. Born in and built for the
+              cloud with a modern architecture, Ampere gives customers the freedom to accelerate the delivery of the most memory-intensive applications such as
+              artificial intelligence, big data, machine learning and databases in the cloud. The Ampere eMAG family of products delivers the highest memory
+              throughput and lowest TCO tailored for the emerging growth of cloud computing and next-generation data centers.
             homepage_url: https://amperecomputing.com/
             logo: ampere_computing.svg
             twitter: https://twitter.com/AmpereComputing
             crunchbase: https://www.crunchbase.com/organization/ampere-computing
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amperecomp
           - item:
             name: Anjuna Security, Inc.
+            description: >-
+              Anjuna Security protects applications at runtime with hardware-grade security perimeter, allowing any application to be deployed in any
+              environment using technologies like Intel Software Guard.
             homepage_url: https://anjuna.io/
             logo: anjuna_security_inc.svg
             twitter: https://twitter.com/anjuna_security
             crunchbase: https://www.crunchbase.com/organization/anjuna
+            extra:
+              linkedin_url: https://www.linkedin.com/company/anjuna-security
           - item:
             name: Ant Group Co., Ltd.
+            description: Ant Financial Services Group, formerly known as Alipay, is an affiliate company of the Chinese Alibaba Group.
             homepage_url: https://antgroup.com/
             logo: ant_group_co_ltd.svg
             twitter: https://twitter.com/AntGroup
             crunchbase: https://www.crunchbase.com/organization/ant-financial
+            extra:
+              linkedin_url: https://www.linkedin.com/company/antgroup
           - item:
             name: CanaryBit
+            description: >-
+              CanaryBit
+
+
+              --- Merged Data:
+
+
+              CanaryBit is a company that provides end-to-end data protection and governance solutions for businesses and public authorities. They enable
+              compliance with data protection regulations and ensure secure and confidential data sharing and processing. Cana...
             homepage_url: https://canarybit.eu/
             logo: canarybit.svg
             twitter: https://twitter.com/canarybit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canarybit
             organization:
               name: CanaryBit
               linkedin: https://www.linkedin.com/company/canarybit
           - item:
             name: Canonical Group Limited
+            description: >-
+              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
+              commercial support and related services for Ubuntu and related projects.
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
             name: Cisco Systems, Inc.
+            description: >-
+              Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners
+              help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of
+              Cisco and/or its affiliates in the U.S. and other countries.
             homepage_url: https://cisco.com/
             logo: cisco_systems_inc.svg
             twitter: https://twitter.com/Cisco
             crunchbase: https://www.crunchbase.com/organization/cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
           - item:
             name: Edgeless Systems
+            description: Building super-secure systems.
             homepage_url: https://edgeless.systems/
             logo: edgeless_systems.svg
             twitter: https://twitter.com/EdgelessSystems
             crunchbase: https://www.crunchbase.com/organization/edgeless-systems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/edgeless-systems
           - item:
             name: enclaive
+            description: >-
+              Enclaive is a company that provides confidential multi-cloud computing technology to protect data in use. Their technology enables businesses to
+              turn a public cloud into a private cloud, with data processing and storing concealed in confidential contai...
             homepage_url: https://enclaive.cloud/
             logo: enclaive.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/enclaive
             organization:
               name: enclaive
               linkedin: https://www.linkedin.com/company/enclaive
           - item:
             name: Enveil
+            description: >-
+              Protecting Data in Use to enable secure search, sharing, analytics, and collaboration.   #DataInUse #PrivacyEnhancingTechnologies
+              #homomorphicencryption
             homepage_url: https://enveil.com/
             logo: enveil.svg
             twitter: https://twitter.com/enveil_inc
             crunchbase: https://www.crunchbase.com/organization/enveil-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/enveil
           - item:
             name: Ethernity CLOUD
+            description: >-
+              Leveraging blockchain technology, our mission is to develop a decentralized ecosystem that allows regular cloud software to be run as
+              decentralized cloud applications. Within Ethernity CLOUD, the nodes are location agnostic, self-replicating, constantl...
             homepage_url: https://ethernity.cloud/
             logo: ethernity_cloud.svg
             twitter: https://twitter.com/Ethernity_cloud
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ethernitycloud
             organization:
               name: Ethernity CLOUD
               linkedin: https://www.linkedin.com/company/ethernitycloud
           - item:
             name: Fujitsu Limited
+            description: >-
+              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
+              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
+              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
+              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
+              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
+            description: >-
+              Guangdong OPPO Mobile Telecommunications Corp., Ltd, commonly referred to as OPPO, is a Chinese consumer electronics and mobile communications
+              company headquartered in Dongguan, Guangdong, in China, and known for its smartphones, Blu-ray players and ot...
             homepage_url: https://oppo.com/
             logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
             twitter: https://twitter.com/oppo
             crunchbase: https://www.crunchbase.com/organization/oppo
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oppo
           - item:
             name: Hushmesh
+            description: Hushmesh is a company that aims to solve universal authenticity for everything and everyone through their personal web platform called The Mesh.
             homepage_url: https://hushmesh.com/
             logo: hushmesh.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hushmesh
             organization:
               name: Hushmesh
               linkedin: https://www.linkedin.com/company/hushmesh
           - item:
             name: iExec Blockchain Tech
+            description: >-
+              The first blockchain-based decentralized marketplace for cloud resources, powering applications in the fields of artificial intelligence, fintech
+              or 3D rendering.
             homepage_url: https://iex.ec/
             logo: iexec_blockchain_tech.svg
             twitter: https://twitter.com/iEx_ec
             crunchbase: https://www.crunchbase.com/organization/iexec
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iex.ec
           - item:
             name: Marvell Semiconductors Ltd
+            description: >-
+              Founded in 1995, Marvell first revolutionized the digital storage industry by moving information at speeds never thought possible. Today, that
+              same breakthrough innovation remains at the heart of the company's storage, network infrastructure, and wireless connectivity solutions. With
+              leading intellectual property and deep system-level knowledge, Marvell's semiconductor solutions continue to transform the enterprise, cloud,
+              automotive, industrial, and consumer markets.
             homepage_url: https://marvell.com/
             logo: marvell_semiconductors_ltd.svg
             twitter: https://twitter.com/MarvellTech
             crunchbase: https://www.crunchbase.com/organization/marvell-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/marvell
           - item:
             name: Opaque Systems Inc.
+            description: 'Secure analytics / machine learning on confidential data in the cloud.   Check out our open source: https://t.co/YGjMHWWDUZ'
             homepage_url: https://opaque.co/
             logo: opaque_systems_inc.svg
             twitter: https://twitter.com/opaquesys
+            extra:
+              linkedin_url: https://www.linkedin.com/company/opaquesystems
             organization:
               name: Opaque Systems Inc.
               linkedin: https://www.linkedin.com/company/opaquesystems
           - item:
             name: Rivos Inc
+            description: Rivos, based in Santa Clara and Austin, is an exciting RISC V startup that is targeting to be the first high performance RISC V core.
             homepage_url: https://rivosinc.com/
             logo: rivos_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rivos-inc
             organization:
               name: Rivos Inc
               linkedin: https://www.linkedin.com/company/rivos-inc
           - item:
             name: Samsung Electronics Co. Ltd.
+            description: >-
+              Founded in 1938, Samsung Electronics is a South Korean multinational electronics company engaged in consumer electronics, information technology,
+              mobile communications, and device solutions businesses worldwide. The company develops, manufactures, and sells various consumer products,
+              including mobile phones, tablets, televisions, Blu-ray players, and more. The company is headquartered in Suwon-si, South Korea.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
             twitter: https://twitter.com/Samsung
             crunchbase: https://www.crunchbase.com/organization/samsung-electronics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/samsung-electronics
           - item:
             name: SUSE LLC
+            description: >-
+              SUSE provides businesses with software solutions. Some solutions they offer include data analytics, cloud management, infrastructure facilitation,
+              and more.
             homepage_url: https://suse.com/
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
+            extra:
+              linkedin_url: https://www.linkedin.com/company/attachmate
           - item:
             name: Ultraviolet Consult DOO
+            description: >-
+              Ultraviolet is a cloud computing company that specializes in secure and confidential computing technologies in the domain of telecom, cloud, and
+              IoT systems, with a focus on Confidential Computing.
             homepage_url: https://ultraviolet.rs/
             logo: ultraviolet_consult_doo.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ultravioletrs
             organization:
               name: Ultraviolet Consult DOO
               linkedin: https://www.linkedin.com/company/ultravioletrs
           - item:
             name: VMware LLC
+            description: VMware is a leading provider of multi-cloud services for all apps, enabling digital innovation with enterprise control.
             homepage_url: https://vmware.com/
             logo: vmware_llc.svg
             twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vmware
       - subcategory:
         name: Associate
         items:
           - item:
             name: Acurast
+            description: >-
+              Acurast is a company that provides modular interoperability to interconnect Web2, Web3, AI, and IoT. They bring off-chain data and computation to
+              various blockchain networks, including Polkadot, Kusama, Tezos, and Cosmos, through a decentralized platfo...
             homepage_url: https://acurast.com/
             logo: acurast.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/acurast-association
             organization:
               name: Acurast
               linkedin: https://www.linkedin.com/company/acurast-association
@@ -223,42 +403,72 @@ landscape:
               name: DLT Research Foundation
           - item:
             name: Linaro Limited
+            description: >-
+              Linaro is an engineering organization that works on free and open-source software such as the Linux kernel, the GNU Compiler Collection, power
+              management, graphics and multimedia interfaces for the Arm family of instruction sets and implementations the...
             homepage_url: https://linaro.org/
             logo: linaro_limited.svg
             twitter: https://twitter.com/LinaroOrg
             crunchbase: https://www.crunchbase.com/organization/linaro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/linaro
           - item:
             name: MIT Connection Science
+            description: >-
+              The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. Founded in 1861 in response to the
+              increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in
+              applied science and engineering. Researchers worked on computers, radar, and inertial guidance during World War II and the Cold War. Post-war
+              defense research contributed to the rapid expansion of the faculty and campus under James Killian. The current 168-acre (68.0 ha) campus opened in
+              1916 and extends over 1 mile (1.6 km) along the northern bank of the Charles River basin. The Institute is traditionally known for its research
+              and education in the physical sciences and engineering, and more recently in biology, economics, linguistics, and management as well. It is often
+              cited as among the world's top universities. The "Engineers" sponsor 31 sports, most teams of which compete in the NCAA Division III's New England
+              Women's and Men's Athletic Conference; the Division I rowing programs compete as part of the EARC and EAWRC.
             homepage_url: https://mit.edu/
             logo: mit_connection_science.svg
             twitter: https://twitter.com/MIT
             crunchbase: https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mit-lincoln-laboratory
           - item:
             name: Oasis Protocol Foundation
+            description: Foundation supporting the growth of the Oasis Network, the most powerful blockchain network for DeFi and Open Data.
             homepage_url: https://oasisprotocol.org/
             logo: oasis_protocol_foundation.svg
             twitter: https://twitter.com/OasisProtocol
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oasisprotocol
             organization:
               name: Oasis Protocol Foundation
               linkedin: https://www.linkedin.com/company/oasisprotocol
           - item:
             name: RISC-V International
+            description: "RISC-V International is chartered to standardize and promote the open RISC-V instruction set architecture together with its hardware and software ecosystem for use in all computing devices.\_"
             homepage_url: https://riscv.org/
             logo: risc_v_international.svg
             twitter: https://twitter.com/risc_v
             crunchbase: https://www.crunchbase.com/organization/risc-v
+            extra:
+              linkedin_url: https://www.linkedin.com/company/risc-v-international-association
           - item:
             name: Shanghai Jiao Tong University
+            description: >-
+              Shanghai Jiao Tong University is a major research university in Shanghai. Established on April 8, 1896, as Nanyang Public School by an imperial
+              edict issued by the Guangxu Emperor, it is one of China's oldest universities.
             homepage_url: https://en.sjtu.edu.cn/
             logo: shanghai_jiao_tong_university.svg
             twitter: https://twitter.com/sjtuhpc
             crunchbase: https://www.crunchbase.com/organization/shanghai-jiao-tong-university
           - item:
             name: The MITRE Corporation
+            description: >-
+              Founded in 1958 and headquartered in McLean, Virginia, The MITRE Corporation is a not-for-profit company providing engineering and technical
+              guidance for the federal government.
             homepage_url: https://mitre.org/
             logo: the_mitre_corporation.svg
             twitter: https://twitter.com/MITREcorp
             crunchbase: https://www.crunchbase.com/organization/mitre
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mitre
       - subcategory:
         name: Startup
         items:
@@ -270,8 +480,11 @@ landscape:
               name: Arcium Association
           - item:
             name: Automata Network
+            description: 'Automata Network: Decentralized middleware ensuring fairness and privacy in Web3 with products like 1RPC and NFTFair.'
             homepage_url: https://ata.network/
             logo: automata_network.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/automatanetwork
             organization:
               name: Automata Network
               linkedin: https://www.linkedin.com/company/automatanetwork
@@ -283,33 +496,54 @@ landscape:
               name: Common Tools
           - item:
             name: Fr0ntierX Inc
+            description: >-
+              Fr0ntierX is an enterprise software infrastructure that provides customizable solutions for technological needs and verified data analytics for
+              business optimization.
             homepage_url: https://fr0ntierx.com/
             logo: fr0ntierx_inc.svg
             crunchbase: https://www.crunchbase.com/organization/fr0ntierx
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fr0ntierx
           - item:
             name: Honeypotz
+            description: "AiStudio merges AI and Machine Learning to assist enterprise. \n  \tMachine Learning and MLOps tools. Data Science, Benefits of Machine Learning, AI and machine learning, Kubeflow, TensorFlow. Engage Here to begin!"
             homepage_url: https://aistudio.ml/
             logo: honeypotz.svg
             organization:
               name: Honeypotz
           - item:
             name: Invary
+            description: >-
+              Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are
+              often overlooked by other security measures.
             homepage_url: https://invary.com/
             logo: invary.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/invary
             organization:
               name: Invary
               linkedin: https://www.linkedin.com/company/invary
           - item:
             name: Partisia
+            description: >-
+              Partisia provides a secure data sharing platform that enables organizations to compute on sensitive data while maintaining compliance and
+              encryption, thereby unlocking the potential for innovation and breakthroughs in research and AI solutions.
             homepage_url: https://partisia.com/
             logo: partisia.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/partisia
             organization:
               name: Partisia
               linkedin: https://www.linkedin.com/company/partisia
           - item:
             name: Super Protocol
+            description: >-
+              Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without
+              third parties.
             homepage_url: https://superprotocol.com/
             logo: super_protocol.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/superprotocol
             organization:
               name: Super Protocol
               linkedin: https://www.linkedin.com/company/superprotocol
