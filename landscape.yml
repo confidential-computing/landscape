@@ -512,6 +512,12 @@ landscape:
             organization:
               name: Honeypotz
           - item:
+            name: induz
+            homepage_url: https://induz.io/
+            logo: induz.svg
+            organization:
+              name: induz
+          - item:
             name: Invary
             description: >-
               Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are
