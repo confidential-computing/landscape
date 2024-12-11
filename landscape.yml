@@ -169,6 +169,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/antgroup
           - item:
+            name: Applied Blockchain
+            description: We Develop Applications with Enhanced Trust and Privacy
+            homepage_url: https://appliedblockchain.com/
+            logo: applied_blockchain.svg
+            twitter: https://twitter.com/AppBlockchain
+            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
+            extra:
+              linkedin_url: https://www.linkedin.com/company/applied-blockchain
+          - item:
             name: CanaryBit
             description: >-
               CanaryBit
