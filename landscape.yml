@@ -229,18 +229,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/edgeless-systems
           - item:
-            name: enclaive
-            description: >-
-              Enclaive is a company that provides confidential multi-cloud computing technology to protect data in use. Their technology enables businesses to
-              turn a public cloud into a private cloud, with data processing and storing concealed in confidential contai...
-            homepage_url: https://enclaive.cloud/
-            logo: enclaive.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/enclaive
-            organization:
-              name: enclaive
-              linkedin: https://www.linkedin.com/company/enclaive
-          - item:
             name: Enveil
             description: >-
               Protecting Data in Use to enable secure search, sharing, analytics, and collaboration.   #DataInUse #PrivacyEnhancingTechnologies
@@ -311,6 +299,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/iexec
             extra:
               linkedin_url: https://www.linkedin.com/company/iex.ec
+          - item:
+            name: Linaro Limited
+            description: >-
+              Linaro is an engineering organization that works on free and open-source software such as the Linux kernel, the GNU Compiler Collection, power
+              management, graphics and multimedia interfaces for the Arm family of instruction sets and implementations the...
+            homepage_url: https://linaro.org/
+            logo: linaro_limited.svg
+            twitter: https://twitter.com/LinaroOrg
+            crunchbase: https://www.crunchbase.com/organization/linaro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/linaro
           - item:
             name: Marvell Semiconductors Ltd
             description: >-
@@ -410,17 +409,6 @@ landscape:
             logo: dlt_research_foundation.svg
             organization:
               name: DLT Research Foundation
-          - item:
-            name: Linaro Limited
-            description: >-
-              Linaro is an engineering organization that works on free and open-source software such as the Linux kernel, the GNU Compiler Collection, power
-              management, graphics and multimedia interfaces for the Arm family of instruction sets and implementations the...
-            homepage_url: https://linaro.org/
-            logo: linaro_limited.svg
-            twitter: https://twitter.com/LinaroOrg
-            crunchbase: https://www.crunchbase.com/organization/linaro
-            extra:
-              linkedin_url: https://www.linkedin.com/company/linaro
           - item:
             name: MIT Connection Science
             description: >-
