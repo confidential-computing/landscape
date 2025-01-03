@@ -178,6 +178,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/applied-blockchain
           - item:
+            name: Beijing Xiaomi Mobile Software Co., Ltd
+            description: |-
+              4416 Xiaomi Corporation (/ˈʃaʊmiː/; Chinese: 小米) is a Chinese electronics company founded in April 2010 and headquartered in Beijing.
+
+              --- Merged Data:
+
+              4416 Xiaomi Corporation (/ˈʃaʊmiː/; Chinese: 小米) is a Chinese electronics company founded in April 2010 and headquartered in Beijing. （www.mi.com）
+            homepage_url: https://mi.com/
+            logo: beijing_xiaomi_mobile_software_co.svg
+            twitter: https://twitter.com/XiaomiUSA
+            crunchbase: https://www.crunchbase.com/organization/xiaomi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/xiaomi-technology
+          - item:
             name: CanaryBit
             description: >-
               CanaryBit
