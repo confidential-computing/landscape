@@ -480,6 +480,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mitre
             extra:
               linkedin_url: https://www.linkedin.com/company/mitre
+          - item:
+            name: UCLA Trustworthy AI Lab
+            description: >-
+              UCLA is a public research university that fosters innovation and education, addressing societal needs while promoting a diverse environment where
+              individuals can thrive and contribute to global progress.
+            homepage_url: https://faculty.stat.ucla.edu/
+            logo: ucla_trustworthy_ai_lab.svg
+            organization:
+              name: UCLA Trustworthy AI Lab
       - subcategory:
         name: Startup
         items:
