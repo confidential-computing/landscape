@@ -515,6 +515,15 @@ landscape:
             organization:
               name: Common Tools
           - item:
+            name: Entangle Labs
+            description: >-
+              Entangle Labs is focused on developing advanced interoperability and data infrastructure solutions aimed at creating a more interconnected and
+              scalable Web3 ecosystem.
+            homepage_url: https://entanglelabs.org/
+            logo: entangle_labs.svg
+            organization:
+              name: Entangle Labs
+          - item:
             name: Fr0ntierX Inc
             description: >-
               Fr0ntierX is an enterprise software infrastructure that provides customizable solutions for technological needs and verified data analytics for
