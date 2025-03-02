@@ -114,6 +114,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
+            name: Shielded Technologies
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            organization:
+              name: Shielded Technologies
+          - item:
             name: TikTok Inc.
             description: >-
               TikTok is a short form video hosting service owned by the Chinese company ByteDance. It hosts user submitted videos, which can range in duration
@@ -588,3 +594,9 @@ landscape:
             logo: the_simi_group.svg
             organization:
               name: The SIMI Group
+          - item:
+            name: Ulyssean
+            homepage_url: https://ulyssean.com/
+            logo: ulyssean.svg
+            organization:
+              name: Ulyssean
