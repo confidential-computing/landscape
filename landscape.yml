@@ -565,6 +565,12 @@ landscape:
               name: Invary
               linkedin: https://www.linkedin.com/company/invary
           - item:
+            name: Lucid Computing Inc.
+            homepage_url: https://lucidcomputing.ai/
+            logo: lucid_computing_inc.svg
+            organization:
+              name: Lucid Computing Inc.
+          - item:
             name: Partisia
             description: >-
               Partisia provides a secure data sharing platform that enables organizations to compute on sensitive data while maintaining compliance and
