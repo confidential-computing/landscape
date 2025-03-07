@@ -260,19 +260,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/enveil
           - item:
-            name: Ethernity CLOUD
-            description: >-
-              Leveraging blockchain technology, our mission is to develop a decentralized ecosystem that allows regular cloud software to be run as
-              decentralized cloud applications. Within Ethernity CLOUD, the nodes are location agnostic, self-replicating, constantl...
-            homepage_url: https://ethernity.cloud/
-            logo: ethernity_cloud.svg
-            twitter: https://twitter.com/Ethernity_cloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ethernitycloud
-            organization:
-              name: Ethernity CLOUD
-              linkedin: https://www.linkedin.com/company/ethernitycloud
-          - item:
             name: Fujitsu Limited
             description: >-
               Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
