@@ -508,6 +508,12 @@ landscape:
             organization:
               name: Common Tools
           - item:
+            name: EQTY Lab
+            homepage_url: https://eqtylab.io/
+            logo: eqty_lab.svg
+            organization:
+              name: EQTY Lab
+          - item:
             name: FINALITEE LABS PTE. LTD.
             description: >-
               Entangle Labs is focused on developing advanced interoperability and data infrastructure solutions aimed at creating a more interconnected and
