@@ -564,6 +564,18 @@ landscape:
             organization:
               name: Lucid Computing Inc.
           - item:
+            name: Mainsail Industries
+            description: >-
+              Mainsail specializes in providing advanced security solutions and technology to support the missions of military personnel and enhance their
+              operational effectiveness.
+            homepage_url: https://mainsailindustries.com/
+            logo: mainsail_industries.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mainsail-industries
+            organization:
+              name: Mainsail Industries
+              linkedin: https://www.linkedin.com/company/mainsail-industries
+          - item:
             name: Partisia
             description: >-
               Partisia provides a secure data sharing platform that enables organizations to compute on sensitive data while maintaining compliance and
