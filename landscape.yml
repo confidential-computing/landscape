@@ -601,6 +601,9 @@ landscape:
               linkedin: https://www.linkedin.com/company/superprotocol
           - item:
             name: The SIMI Group
+            description: >-
+              SIMI is a Consultation Firm and Managed Service Provider delivering breakthrough Software as a Service (SaaS) solutions to address clinical,
+              disaster, population and public health needs.
             homepage_url: https://simigroup.com/
             logo: the_simi_group.svg
             organization:
