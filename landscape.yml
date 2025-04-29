@@ -533,13 +533,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/fr0ntierx
           - item:
-            name: Honeypotz
-            description: "AiStudio merges AI and Machine Learning to assist enterprise. \n  \tMachine Learning and MLOps tools. Data Science, Benefits of Machine Learning, AI and machine learning, Kubeflow, TensorFlow. Engage Here to begin!"
-            homepage_url: https://aistudio.ml/
-            logo: honeypotz.svg
-            organization:
-              name: Honeypotz
-          - item:
             name: induz
             homepage_url: https://induz.io/
             logo: induz.svg
