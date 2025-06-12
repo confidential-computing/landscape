@@ -318,14 +318,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/linaro
           - item:
-            name: Marvell Semiconductors Ltd
+            name: Marvell Technology, Inc.
             description: >-
               Founded in 1995, Marvell first revolutionized the digital storage industry by moving information at speeds never thought possible. Today, that
               same breakthrough innovation remains at the heart of the company's storage, network infrastructure, and wireless connectivity solutions. With
               leading intellectual property and deep system-level knowledge, Marvell's semiconductor solutions continue to transform the enterprise, cloud,
               automotive, industrial, and consumer markets.
             homepage_url: https://marvell.com/
-            logo: marvell_semiconductors_ltd.svg
+            logo: marvell_technology_inc.svg
             twitter: https://twitter.com/MarvellTech
             crunchbase: https://www.crunchbase.com/organization/marvell-technology
             extra:
