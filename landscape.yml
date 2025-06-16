@@ -602,6 +602,12 @@ landscape:
             organization:
               name: The SIMI Group
           - item:
+            name: Tinfoil
+            homepage_url: https://tinfoil.sh/
+            logo: tinfoil.svg
+            organization:
+              name: Tinfoil
+          - item:
             name: Ulyssean
             homepage_url: https://ulyssean.com/
             logo: ulyssean.svg
