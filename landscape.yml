@@ -494,6 +494,15 @@ landscape:
               name: Automata Network
               linkedin: https://www.linkedin.com/company/automatanetwork
           - item:
+            name: Bloomfilter
+            description: >-
+              Bloomfilter specializes in AI-driven process mining solutions that enhance transparency, predictability, and efficiency in software development by
+              connecting product teams with business stakeholders.
+            homepage_url: https://www.bloomfilter.ai/
+            logo: bloomfilter.svg
+            organization:
+              name: Bloomfilter
+          - item:
             name: Common Tools
             homepage_url: https://common.tools/
             logo: common_tools.svg
