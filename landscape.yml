@@ -582,6 +582,12 @@ landscape:
               name: Partisia
               linkedin: https://www.linkedin.com/company/partisia
           - item:
+            name: QLAD
+            homepage_url: https://qlad.com/
+            logo: qlad.svg
+            organization:
+              name: QLAD
+          - item:
             name: Super Protocol
             description: >-
               Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without
