@@ -299,6 +299,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/iex.ec
           - item:
+            name: Invary
+            description: >-
+              Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are
+              often overlooked by other security measures.
+            homepage_url: https://invary.com/
+            logo: invary.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/invary
+            organization:
+              name: Invary
+              linkedin: https://www.linkedin.com/company/invary
+          - item:
             name: Linaro Limited
             description: >-
               Linaro is an engineering organization that works on free and open-source software such as the Linux kernel, the GNU Compiler Collection, power
