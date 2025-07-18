@@ -552,18 +552,6 @@ landscape:
             organization:
               name: induz
           - item:
-            name: Invary
-            description: >-
-              Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are
-              often overlooked by other security measures.
-            homepage_url: https://invary.com/
-            logo: invary.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/invary
-            organization:
-              name: Invary
-              linkedin: https://www.linkedin.com/company/invary
-          - item:
             name: Lucid Computing Inc.
             homepage_url: https://lucidcomputing.ai/
             logo: lucid_computing_inc.svg
