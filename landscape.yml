@@ -117,8 +117,7 @@ landscape:
             name: Shielded Technologies
             homepage_url: https://shielded.io/
             logo: shielded_technologies.svg
-            organization:
-              name: Shielded Technologies
+            crunchbase: https://www.crunchbase.com/organization/shielded-technologies
           - item:
             name: TikTok Inc.
             description: >-
