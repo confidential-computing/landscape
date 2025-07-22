@@ -489,12 +489,6 @@ landscape:
         name: Startup
         items:
           - item:
-            name: Arcium Association
-            homepage_url: https://arcium.com/
-            logo: arcium_association.svg
-            organization:
-              name: Arcium Association
-          - item:
             name: Automata Network
             description: 'Automata Network: Decentralized middleware ensuring fairness and privacy in Web3 with products like 1RPC and NFTFair.'
             homepage_url: https://ata.network/
