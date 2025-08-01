@@ -576,6 +576,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/partisia
           - item:
             name: QLAD
+            description: Secure sensitive workloads with QLAD's drop-in confidential computing solution. Hardware-enforced protection without code changes or complexity.
             homepage_url: https://qlad.com/
             logo: qlad.svg
             organization:
