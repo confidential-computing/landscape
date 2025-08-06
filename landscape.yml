@@ -489,16 +489,6 @@ landscape:
         name: Startup
         items:
           - item:
-            name: Automata Network
-            description: 'Automata Network: Decentralized middleware ensuring fairness and privacy in Web3 with products like 1RPC and NFTFair.'
-            homepage_url: https://ata.network/
-            logo: automata_network.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/automatanetwork
-            organization:
-              name: Automata Network
-              linkedin: https://www.linkedin.com/company/automatanetwork
-          - item:
             name: Bloomfilter
             description: >-
               Bloomfilter specializes in AI-driven process mining solutions that enhance transparency, predictability, and efficiency in software development by
@@ -507,12 +497,6 @@ landscape:
             logo: bloomfilter.svg
             organization:
               name: Bloomfilter
-          - item:
-            name: Common Tools
-            homepage_url: https://common.tools/
-            logo: common_tools.svg
-            organization:
-              name: Common Tools
           - item:
             name: EQTY Lab
             homepage_url: https://eqtylab.io/
