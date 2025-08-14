@@ -240,17 +240,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/edgeless-systems
           - item:
-            name: Enveil
-            description: >-
-              Protecting Data in Use to enable secure search, sharing, analytics, and collaboration.   #DataInUse #PrivacyEnhancingTechnologies
-              #homomorphicencryption
-            homepage_url: https://enveil.com/
-            logo: enveil.svg
-            twitter: https://twitter.com/enveil_inc
-            crunchbase: https://www.crunchbase.com/organization/enveil-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/enveil
-          - item:
             name: Fujitsu Limited
             description: >-
               Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
