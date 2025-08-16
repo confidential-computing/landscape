@@ -334,6 +334,25 @@ landscape:
               name: Opaque Systems Inc.
               linkedin: https://www.linkedin.com/company/opaquesystems
           - item:
+            name: Qualcomm, Inc.
+            description: >-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications
+              equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system
+              software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+
+              --- Merged Data:
+
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in
+              the development and commercialization of a digital communication technology called code division multiple a...
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            twitter: https://twitter.com/Qualcomm
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
+          - item:
             name: Rivos Inc
             description: Rivos, based in Santa Clara and Austin, is an exciting RISC V startup that is targeting to be the first high performance RISC V core.
             homepage_url: https://rivosinc.com/
