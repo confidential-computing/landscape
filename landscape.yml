@@ -375,6 +375,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/samsung-electronics
           - item:
+            name: Super Protocol
+            description: >-
+              Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without
+              third parties.
+            homepage_url: https://superprotocol.com/
+            logo: super_protocol.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/superprotocol
+            organization:
+              name: Super Protocol
+              linkedin: https://www.linkedin.com/company/superprotocol
+          - item:
             name: SUSE LLC
             description: >-
               SUSE provides businesses with software solutions. Some solutions they offer include data analytics, cloud management, infrastructure facilitation,
@@ -573,18 +585,6 @@ landscape:
             logo: qlad.svg
             organization:
               name: QLAD
-          - item:
-            name: Super Protocol
-            description: >-
-              Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without
-              third parties.
-            homepage_url: https://superprotocol.com/
-            logo: super_protocol.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/superprotocol
-            organization:
-              name: Super Protocol
-              linkedin: https://www.linkedin.com/company/superprotocol
           - item:
             name: The SIMI Group
             description: >-
