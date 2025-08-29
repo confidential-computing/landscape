@@ -524,15 +524,6 @@ landscape:
             organization:
               name: EQTY Lab
           - item:
-            name: FINALITEE LABS PTE. LTD.
-            description: >-
-              Entangle Labs is focused on developing advanced interoperability and data infrastructure solutions aimed at creating a more interconnected and
-              scalable Web3 ecosystem.
-            homepage_url: https://entanglelabs.org/
-            logo: finalitee_labs_pte_ltd.svg
-            organization:
-              name: FINALITEE LABS PTE. LTD.
-          - item:
             name: Fr0ntierX Inc
             description: >-
               Fr0ntierX is an enterprise software infrastructure that provides customizable solutions for technological needs and verified data analytics for
