@@ -231,6 +231,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cisco
           - item:
+            name: Common Tools
+            homepage_url: https://common.tools/
+            logo: common_tools.svg
+            organization:
+              name: Common Tools
+          - item:
             name: Edgeless Systems
             description: Building super-secure systems.
             homepage_url: https://edgeless.systems/
