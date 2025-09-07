@@ -133,6 +133,15 @@ landscape:
         name: General
         items:
           - item:
+            name: Acompany Co.
+            description: >-
+              Acompany Co. specializes in privacy technology and law, offering 'AutoPrivacy' for secure data utilization and maximizing business impact through
+              data collaboration.
+            homepage_url: https://en.acompany.tech/
+            logo: acompany_co.svg
+            organization:
+              name: Acompany Co.
+          - item:
             name: Ampere Computing
             description: >-
               Ampere is designing the future of hyperscale cloud and edge computing with its 64-bit Arm server processor architecture. Born in and built for the
