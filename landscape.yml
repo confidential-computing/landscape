@@ -314,6 +314,15 @@ landscape:
               name: Invary
               linkedin: https://www.linkedin.com/company/invary
           - item:
+            name: JPMorgan Chase Bank, National Association
+            description: >-
+              JPMorgan Chase & Co. is a leading global financial services firm with assets of $2.5 trillion, offering a wide range of financial services to over
+              65 million consumers and 4 million small businesses. Their services include personal banking, small busin...
+            homepage_url: https://jpmorganchase.com/
+            logo: jpmorgan_chase_bank_national_association.svg
+            organization:
+              name: JPMorgan Chase Bank, National Association
+          - item:
             name: Linaro Limited
             description: >-
               Linaro is an engineering organization that works on free and open-source software such as the Linux kernel, the GNU Compiler Collection, power
