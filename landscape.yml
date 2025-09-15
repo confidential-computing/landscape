@@ -349,6 +349,12 @@ landscape:
               name: Opaque Systems Inc.
               linkedin: https://www.linkedin.com/company/opaquesystems
           - item:
+            name: Phala
+            homepage_url: https://phala.com/
+            logo: phala.svg
+            organization:
+              name: Phala
+          - item:
             name: Qualcomm, Inc.
             description: >-
               Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications
@@ -563,8 +569,8 @@ landscape:
           - item:
             name: Mainsail Industries
             description: >-
-              Mainsail specializes in providing advanced security solutions and technology to support the missions of military personnel and enhance their
-              operational effectiveness.
+              Mainsail specializes in providing advanced data security technology through a next-generation hypervisor designed to protect critical
+              infrastructure and service providers from sophisticated cyber threats, ensuring compliance with NIST Zero Trust standa...
             homepage_url: https://mainsailindustries.com/
             logo: mainsail_industries.svg
             extra:
