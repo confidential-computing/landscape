@@ -588,18 +588,6 @@ landscape:
               name: Mainsail Industries
               linkedin: https://www.linkedin.com/company/mainsail-industries
           - item:
-            name: Partisia
-            description: >-
-              Partisia provides a secure data sharing platform that enables organizations to compute on sensitive data while maintaining compliance and
-              encryption, thereby unlocking the potential for innovation and breakthroughs in research and AI solutions.
-            homepage_url: https://partisia.com/
-            logo: partisia.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/partisia
-            organization:
-              name: Partisia
-              linkedin: https://www.linkedin.com/company/partisia
-          - item:
             name: QLAD
             description: Secure sensitive workloads with QLAD's drop-in confidential computing solution. Hardware-enforced protection without code changes or complexity.
             homepage_url: https://qlad.com/
