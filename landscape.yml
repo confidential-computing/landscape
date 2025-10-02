@@ -359,10 +359,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/opaquesystems
           - item:
             name: Phala
+            description: >-
+              Phala is a Confidential AI native cloud platform that provides secure, user-friendly environment for running AI applications. 
+
+              Develoeprs can deploy any standard Docker application directly into a Trusted Execution Environment (TEE), ensuring AI models and data remain
+              confidential and tamper-proof.
             homepage_url: https://phala.com/
             logo: phala.svg
-            organization:
-              name: Phala
+            crunchbase: https://www.crunchbase.com/organization/phala-network
           - item:
             name: Qualcomm, Inc.
             description: >-
@@ -548,6 +552,12 @@ landscape:
             organization:
               name: Bloomfilter
           - item:
+            name: Confident Security
+            homepage_url: https://confident.security/
+            logo: confident_security.svg
+            organization:
+              name: Confident Security
+          - item:
             name: EQTY Lab
             homepage_url: https://eqtylab.io/
             logo: eqty_lab.svg
@@ -563,6 +573,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fr0ntierx
             extra:
               linkedin_url: https://www.linkedin.com/company/fr0ntierx
+          - item:
+            name: FuriosaAI, Inc.
+            description: >-
+              FuriosaAI is a next generation semiconductor company that builds AI inference computing solutions with industry defining new chip architecture and
+              software stack, with a focus on hyperscale data centers and enterprise servers that will run massive scal...
+            homepage_url: https://furiosa.ai/
+            logo: furiosaai_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/furiosaai
+            organization:
+              name: FuriosaAI, Inc.
+              linkedin: https://www.linkedin.com/company/furiosaai
           - item:
             name: induz
             homepage_url: https://induz.io/
