@@ -133,14 +133,14 @@ landscape:
         name: General
         items:
           - item:
-            name: Acompany Co.
+            name: Acompany Co., Ltd.
             description: >-
-              Acompany Co. specializes in privacy technology and law, offering 'AutoPrivacy' for secure data utilization and maximizing business impact through
-              data collaboration.
+              Acompany Co., Ltd. specializes in privacy technology and law, offering 'AutoPrivacy' for secure data utilization and maximizing business impact
+              through data collaboration.
             homepage_url: https://en.acompany.tech/
-            logo: acompany_co.svg
+            logo: acompany_co_ltd.svg
             organization:
-              name: Acompany Co.
+              name: Acompany Co., Ltd.
           - item:
             name: Ampere Computing
             description: >-
