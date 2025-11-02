@@ -281,6 +281,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oppo
           - item:
+            name: Hewlett Packard Enterprise Development LP
+            description: >-
+              Hewlett-Packard Development Company, L.P. provides information technology solutions. Additionally, the company also provides large-format,
+              commercial and industrial printing solutions. The company is based in Houston, Texas. Hewlett-Packard Development Company, L.P. operates as a
+              subsidiary of Hewlett-Packard Company.
+            homepage_url: https://hpe.com/
+            logo: hewlett_packard_enterprise_development_lp.svg
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mapr-technologies
+          - item:
             name: Hushmesh
             description: Hushmesh is a company that aims to solve universal authenticity for everything and everyone through their personal web platform called The Mesh.
             homepage_url: https://hushmesh.com/
@@ -609,6 +621,15 @@ landscape:
             organization:
               name: Mainsail Industries
               linkedin: https://www.linkedin.com/company/mainsail-industries
+          - item:
+            name: OpenNebula Systems
+            description: The open source Cloud Management Platform developed for the Enterprise 🚀
+            homepage_url: https://opennebula.io/
+            logo: opennebula_systems.svg
+            twitter: https://twitter.com/opennebula
+            crunchbase: https://www.crunchbase.com/organization/opennebula
+            extra:
+              linkedin_url: https://www.linkedin.com/company/opennebula
           - item:
             name: QLAD
             description: Secure sensitive workloads with QLAD's drop-in confidential computing solution. Hardware-enforced protection without code changes or complexity.
