@@ -19,19 +19,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
-            name: Arm Limited
-            description: >-
-              ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing
-              that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare,
-              infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990
-              and is headquartered in the UK.
-            homepage_url: https://arm.com/
-            logo: arm_limited.svg
-            twitter: https://twitter.com/ArmCommunity
-            crunchbase: https://www.crunchbase.com/organization/arm
-            extra:
-              linkedin_url: https://www.linkedin.com/company/arm
-          - item:
             name: Google LLC
             description: >-
               Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search
@@ -183,6 +170,19 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
             extra:
               linkedin_url: https://www.linkedin.com/company/applied-blockchain
+          - item:
+            name: Arm Limited
+            description: >-
+              ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing
+              that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare,
+              infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990
+              and is headquartered in the UK.
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/ArmCommunity
+            crunchbase: https://www.crunchbase.com/organization/arm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arm
           - item:
             name: Beijing Xiaomi Mobile Software Co., Ltd
             description: |-
