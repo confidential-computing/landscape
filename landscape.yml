@@ -570,6 +570,12 @@ landscape:
             organization:
               name: Confident Security
           - item:
+            name: Edera, Inc.
+            homepage_url: https://edera.dev/
+            logo: edera_inc.svg
+            organization:
+              name: Edera, Inc.
+          - item:
             name: EQTY Lab
             homepage_url: https://eqtylab.io/
             logo: eqty_lab.svg
