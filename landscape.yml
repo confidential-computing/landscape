@@ -119,15 +119,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/anjuna-security
           - item:
-            name: Ant Group Co., Ltd.
-            homepage_url: https://antgroup.com/
-            logo: ant_group_co_ltd.svg
-            description: Ant Financial Services Group, formerly known as Alipay, is an affiliate company of the Chinese Alibaba Group.
-            crunchbase: https://www.crunchbase.com/organization/ant-financial
-            twitter: https://twitter.com/AntGroup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/antgroup
-          - item:
             name: Applied Blockchain
             homepage_url: https://appliedblockchain.com/
             logo: applied_blockchain.svg
