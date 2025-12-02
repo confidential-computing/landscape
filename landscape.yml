@@ -519,6 +519,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/opennebula
           - item:
+            name: PremAI
+            homepage_url: https://premai.io/
+            logo: premai.svg
+            description: Prem AI that you Own. Always. Accelerating the Advent of Personalized LLMs. AI That You Own. Always. Seamlessly integrate Generative AI into Your Products with a unified API providing Performance, Reliability, and Full Ownership of Your Models. BENEFIT...
+            organization:
+              name: PremAI
+              linkedin: https://www.linkedin.com/company/premai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/premai
+          - item:
             name: QLAD
             homepage_url: https://qlad.com/
             logo: qlad.svg
