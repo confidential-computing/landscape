@@ -69,15 +69,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
           - item:
-            name: Red Hat, Inc.
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            twitter: https://twitter.com/RedHat
-            extra:
-              linkedin_url: https://www.linkedin.com/company/red-hat
-          - item:
             name: Shielded Technologies
             homepage_url: https://shielded.io/
             logo: shielded_technologies.svg
@@ -137,20 +128,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arm
           - item:
-            name: Beijing Xiaomi Mobile Software Co., Ltd
-            homepage_url: https://mi.com/
-            logo: beijing_xiaomi_mobile_software_co.svg
-            description: |-
-              4416 Xiaomi Corporation (/ˈʃaʊmiː/; Chinese: 小米) is a Chinese electronics company founded in April 2010 and headquartered in Beijing.
-
-              --- Merged Data:
-
-              4416 Xiaomi Corporation (/ˈʃaʊmiː/; Chinese: 小米) is a Chinese electronics company founded in April 2010 and headquartered in Beijing. （www.mi.com）
-            crunchbase: https://www.crunchbase.com/organization/xiaomi
-            twitter: https://twitter.com/XiaomiUSA
-            extra:
-              linkedin_url: https://www.linkedin.com/company/xiaomi-technology
-          - item:
             name: CanaryBit
             homepage_url: https://canarybit.eu/
             logo: canarybit.svg
@@ -200,6 +177,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/edgeless-systems
           - item:
+            name: Fr0ntierX Inc
+            homepage_url: https://fr0ntierx.com/
+            logo: fr0ntierx_inc.svg
+            description: Fr0ntierX is an enterprise software infrastructure that provides customizable solutions for technological needs and verified data analytics for business optimization.
+            crunchbase: https://www.crunchbase.com/organization/fr0ntierx
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fr0ntierx
+          - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
@@ -208,15 +193,6 @@ landscape:
             twitter: https://twitter.com/Fujitsu_Global
             extra:
               linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
-          - item:
-            name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
-            homepage_url: https://oppo.com/
-            logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
-            description: Guangdong OPPO Mobile Telecommunications Corp., Ltd, commonly referred to as OPPO, is a Chinese consumer electronics and mobile communications company headquartered in Dongguan, Guangdong, in China, and known for its smartphones, Blu-ray players and ot...
-            crunchbase: https://www.crunchbase.com/organization/oppo
-            twitter: https://twitter.com/oppo
-            extra:
-              linkedin_url: https://www.linkedin.com/company/oppo
           - item:
             name: Hewlett Packard Enterprise Development LP
             homepage_url: https://hpe.com/
@@ -314,16 +290,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
-            name: Rivos Inc
-            homepage_url: https://rivosinc.com/
-            logo: rivos_inc.svg
-            description: Rivos, based in Santa Clara and Austin, is an exciting RISC V startup that is targeting to be the first high performance RISC V core.
-            organization:
-              name: Rivos Inc
-              linkedin: https://www.linkedin.com/company/rivos-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/rivos-inc
-          - item:
             name: Samsung Electronics Co. Ltd.
             homepage_url: https://samsung.com/
             logo: samsung_electronics_co_ltd.svg
@@ -361,15 +327,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/ultravioletrs
             extra:
               linkedin_url: https://www.linkedin.com/company/ultravioletrs
-          - item:
-            name: VMware LLC
-            homepage_url: https://vmware.com/
-            logo: vmware_llc.svg
-            description: VMware is a leading provider of multi-cloud services for all apps, enabling digital innovation with enterprise control.
-            crunchbase: https://www.crunchbase.com/organization/vmware
-            twitter: https://twitter.com/VMware
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vmware
       - subcategory:
         name: Associate
         items:
@@ -469,14 +426,6 @@ landscape:
             logo: eqty_lab.svg
             organization:
               name: EQTY Lab
-          - item:
-            name: Fr0ntierX Inc
-            homepage_url: https://fr0ntierx.com/
-            logo: fr0ntierx_inc.svg
-            description: Fr0ntierX is an enterprise software infrastructure that provides customizable solutions for technological needs and verified data analytics for business optimization.
-            crunchbase: https://www.crunchbase.com/organization/fr0ntierx
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fr0ntierx
           - item:
             name: FuriosaAI, Inc.
             homepage_url: https://furiosa.ai/
