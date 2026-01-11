@@ -459,6 +459,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mainsail-industries
           - item:
+            name: Modelyo
+            homepage_url: https://modelyo.com/
+            logo: modelyo.svg
+            description: Modelyo specializes in providing confidential computing solutions in the cloud, enabling organizations to securely process sensitive data with advanced encryption technologies that protect data in transit, in use, and at rest, while also facilitating t...
+            organization:
+              name: Modelyo
+          - item:
             name: OpenNebula Systems
             homepage_url: https://opennebula.io/
             logo: opennebula_systems.svg
