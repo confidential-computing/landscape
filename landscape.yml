@@ -449,16 +449,6 @@ landscape:
             organization:
               name: Lucid Computing Inc.
           - item:
-            name: Mainsail Industries
-            homepage_url: https://mainsailindustries.com/
-            logo: mainsail_industries.svg
-            description: Mainsail specializes in providing advanced data security technology through a next-generation hypervisor designed to protect critical infrastructure and service providers from sophisticated cyber threats, ensuring compliance with NIST Zero Trust standa...
-            organization:
-              name: Mainsail Industries
-              linkedin: https://www.linkedin.com/company/mainsail-industries
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mainsail-industries
-          - item:
             name: Modelyo
             homepage_url: https://modelyo.com/
             logo: modelyo.svg
