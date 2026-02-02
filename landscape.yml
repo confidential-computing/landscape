@@ -456,6 +456,13 @@ landscape:
             organization:
               name: Modelyo
           - item:
+            name: NEAR
+            homepage_url: https://near.ai/
+            logo: near.svg
+            description: Teaching Machines to Code
+            organization:
+              name: NEAR
+          - item:
             name: OpenNebula Systems
             homepage_url: https://opennebula.io/
             logo: opennebula_systems.svg
