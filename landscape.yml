@@ -268,6 +268,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/opaquesystems
           - item:
+            name: OpenNebula Systems
+            homepage_url: https://opennebula.io/
+            logo: opennebula_systems.svg
+            description: The open source Cloud Management Platform developed for the Enterprise 🚀
+            crunchbase: https://www.crunchbase.com/organization/opennebula
+            twitter: https://twitter.com/opennebula
+            extra:
+              linkedin_url: https://www.linkedin.com/company/opennebula
+          - item:
             name: Phala
             homepage_url: https://phala.com/
             logo: phala.svg
