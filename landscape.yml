@@ -110,15 +110,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/anjuna-security
           - item:
-            name: Applied Blockchain
-            homepage_url: https://appliedblockchain.com/
-            logo: applied_blockchain.svg
-            description: We Develop Applications with Enhanced Trust and Privacy
-            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
-            twitter: https://twitter.com/AppBlockchain
-            extra:
-              linkedin_url: https://www.linkedin.com/company/applied-blockchain
-          - item:
             name: Arm Limited
             homepage_url: https://arm.com/
             logo: arm_limited.svg
