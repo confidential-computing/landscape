@@ -472,15 +472,6 @@ landscape:
             organization:
               name: NEAR
           - item:
-            name: OpenNebula Systems
-            homepage_url: https://opennebula.io/
-            logo: opennebula_systems.svg
-            description: The open source Cloud Management Platform developed for the Enterprise 🚀
-            crunchbase: https://www.crunchbase.com/organization/opennebula
-            twitter: https://twitter.com/opennebula
-            extra:
-              linkedin_url: https://www.linkedin.com/company/opennebula
-          - item:
             name: PremAI
             homepage_url: https://premai.io/
             logo: premai.svg
