@@ -424,6 +424,13 @@ landscape:
             organization:
               name: Confident Security
           - item:
+            name: EAGLYS
+            homepage_url: https://eaglys.co.jp/
+            logo: eaglys.svg
+            description: EAGLYS Co., Ltd. (EAGLYS) is dedicated to realizing its vision of connecting dormant data in the world, updating society through collective intelligence. The company offers services based on AI technology with a focus on secure computing and data secur...
+            organization:
+              name: EAGLYS
+          - item:
             name: Edera, Inc.
             homepage_url: https://edera.dev/
             logo: edera_inc.svg
