@@ -305,13 +305,6 @@ landscape:
             twitter: https://twitter.com/SUSE
             extra:
               linkedin_url: https://www.linkedin.com/company/attachmate
-          - item:
-            name: Ultraviolet Consult DOO
-            homepage_url: https://ultraviolet.rs/
-            logo: ultraviolet_consult_doo.svg
-            description: Ultraviolet is a cloud computing company that specializes in secure and confidential computing technologies in the domain of telecom, cloud, and IoT systems, with a focus on Confidential Computing.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ultravioletrs
       - subcategory:
         name: Associate
         items:
@@ -405,10 +398,6 @@ landscape:
             description: FuriosaAI is a next generation semiconductor company that builds AI inference computing solutions with industry defining new chip architecture and software stack, with a focus on hyperscale data centers and enterprise servers that will run massive scal...
             extra:
               linkedin_url: https://www.linkedin.com/company/furiosaai
-          - item:
-            name: induz
-            homepage_url: https://induz.io/
-            logo: induz.svg
           - item:
             name: Lucid Computing Inc.
             homepage_url: https://lucidcomputing.ai/
