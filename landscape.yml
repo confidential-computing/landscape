@@ -233,6 +233,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/marvell
           - item:
+            name: OmniTrust Security LLC
+            homepage_url: https://omnitrust.com/
+            logo: omnitrust_security_llc.svg
+            description: OmniTrust Security LLC is a top provider of end-to-end embedded security solutions for a secure Internet of Things, key management, certificate management, and secure OTA provisioning
+            extra:
+              linkedin_url: https://www.linkedin.com/company/integrity-security-services-llc
+          - item:
             name: Opaque Systems Inc.
             homepage_url: https://opaque.co/
             logo: opaque_systems_inc.svg
