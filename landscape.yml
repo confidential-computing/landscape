@@ -432,11 +432,6 @@ landscape:
             logo: qlad.svg
             description: Secure sensitive workloads with QLAD's drop-in confidential computing solution. Hardware-enforced protection without code changes or complexity.
           - item:
-            name: The SIMI Group
-            homepage_url: https://simigroup.com/
-            logo: the_simi_group.svg
-            description: SIMI is a Consultation Firm and Managed Service Provider delivering breakthrough Software as a Service (SaaS) solutions to address clinical, disaster, population and public health needs.
-          - item:
             name: Tinfoil
             homepage_url: https://tinfoil.sh/
             logo: tinfoil.svg
