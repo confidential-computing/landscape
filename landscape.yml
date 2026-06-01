@@ -161,6 +161,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/edgeless-systems
           - item:
+            name: EQTY Lab
+            homepage_url: https://eqtylab.io/
+            logo: eqty_lab.svg
+          - item:
             name: Fr0ntierX Inc
             homepage_url: https://fr0ntierx.com/
             logo: fr0ntierx_inc.svg
@@ -382,6 +386,16 @@ landscape:
             logo: bloomfilter.svg
             description: Bloomfilter specializes in AI-driven process mining solutions that enhance transparency, predictability, and efficiency in software development by connecting product teams with business stakeholders.
           - item:
+            name: Confidential AI
+            homepage_url: https://confidential.ai/
+            logo: confidential_ai.svg
+            description: |-
+              The confidential computing stack for AI.
+
+              We run your AI workloads (inference, training, agents) in hardware-encrypted Trusted Execution Environments (TEEs).
+
+              Data and weights stay private and untamperable while being processed.
+          - item:
             name: Confident Security
             homepage_url: https://confident.security/
             logo: confident_security.svg
@@ -394,10 +408,6 @@ landscape:
             name: Edera, Inc.
             homepage_url: https://edera.dev/
             logo: edera_inc.svg
-          - item:
-            name: EQTY Lab
-            homepage_url: https://eqtylab.io/
-            logo: eqty_lab.svg
           - item:
             name: FuriosaAI, Inc.
             homepage_url: https://furiosa.ai/
