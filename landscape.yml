@@ -428,7 +428,7 @@ landscape:
             name: NEAR
             homepage_url: https://near.ai/
             logo: near.svg
-            description: Teaching Machines to Code
+            description: AI agents for the work your team has been afraid to automate. Private by default, verifiable by design.
           - item:
             name: PremAI
             homepage_url: https://premai.io/
