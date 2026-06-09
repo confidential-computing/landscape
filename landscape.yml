@@ -45,7 +45,12 @@ landscape:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+            description: |-
+              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+
+              --- Merged Data:
+
+              Workplace, a product by Meta, is revolutionizing the way people work by bringing the power of community to the workplace. With a focus on enhancing collaboration, communication, and culture, Workplace is at the forefront of shaping the future of work i...
             crunchbase: https://www.crunchbase.com/organization/facebook
             twitter: https://twitter.com/Meta
             extra:
@@ -81,6 +86,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tiktok
             extra:
               linkedin_url: https://www.linkedin.com/company/tiktok
+          - item:
+            name: Volcano Engine
+            homepage_url: https://volcengine.com/
+            logo: volcano_engine.svg
+            description: Volcengine, a cloud service platform under ByteDance, offers a range of services including cloud infrastructure, video and content distribution, VeDI data intelligence platform, AI, and development and operations support. It enables external enterprise...
       - subcategory:
         name: General
         items:
@@ -395,6 +405,11 @@ landscape:
               We run your AI workloads (inference, training, agents) in hardware-encrypted Trusted Execution Environments (TEEs).
 
               Data and weights stay private and untamperable while being processed.
+          - item:
+            name: Confidential Core.AI
+            homepage_url: https://confidentialcore.ai/
+            logo: confidential_core.svg
+            description: Confidential Core.AI specializes in providing secure simulation and digital twin applications powered by generative AI on a sovereign private cloud, focusing on enabling enterprises to safely run AI on their most sensitive data while ensuring trust and...
           - item:
             name: Confident Security
             homepage_url: https://confident.security/
