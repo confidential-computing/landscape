@@ -377,11 +377,6 @@ landscape:
             twitter: https://twitter.com/MITREcorp
             extra:
               linkedin_url: https://www.linkedin.com/company/mitre
-          - item:
-            name: UCLA Trustworthy AI Lab
-            homepage_url: https://faculty.stat.ucla.edu/
-            logo: ucla_trustworthy_ai_lab.svg
-            description: UCLA is a public research university that fosters innovation and education, addressing societal needs while promoting a diverse environment where individuals can thrive and contribute to global progress.
       - subcategory:
         name: Startup
         items:
