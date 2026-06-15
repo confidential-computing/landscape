@@ -381,6 +381,10 @@ landscape:
         name: Startup
         items:
           - item:
+            name: Antriksh Cloud
+            homepage_url: https://antriksh.cloud/
+            logo: antriksh_cloud.svg
+          - item:
             name: Bloomfilter
             homepage_url: https://www.bloomfilter.ai/
             logo: bloomfilter.svg
