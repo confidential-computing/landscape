@@ -157,6 +157,10 @@ landscape:
             homepage_url: https://common.tools/
             logo: common_tools.svg
           - item:
+            name: Corvex
+            homepage_url: https://corvex.ai/
+            logo: corvex.svg
+          - item:
             name: Edgeless Systems
             homepage_url: https://edgeless.systems/
             logo: edgeless_systems.svg
@@ -385,14 +389,14 @@ landscape:
         name: Startup
         items:
           - item:
+            name: '10102'
+            homepage_url: https://10102.io/
+            logo: 10102.svg
+            description: 10102 is a futuristic technology research company focused on next-generation crypto research, investments, and ventures. They specialize in crypto expertise including layer 1&2 protocols, DeFi, NFTs, DAOs, and DIDs, driven by the vision of a future sha...
+          - item:
             name: Antriksh Cloud
             homepage_url: https://antriksh.cloud/
             logo: antriksh_cloud.svg
-          - item:
-            name: Bloomfilter
-            homepage_url: https://www.bloomfilter.ai/
-            logo: bloomfilter.svg
-            description: Bloomfilter specializes in AI-driven process mining solutions that enhance transparency, predictability, and efficiency in software development by connecting product teams with business stakeholders.
           - item:
             name: Confidential AI
             homepage_url: https://confidential.ai/
