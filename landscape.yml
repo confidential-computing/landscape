@@ -314,13 +314,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/samsung-electronics
           - item:
-            name: Super Protocol
-            homepage_url: https://superprotocol.com/
-            logo: super_protocol.svg
-            description: Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without third parties.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/superprotocol
-          - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
