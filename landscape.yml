@@ -329,6 +329,10 @@ landscape:
             twitter: https://twitter.com/SUSE
             extra:
               linkedin_url: https://www.linkedin.com/company/attachmate
+          - item:
+            name: Tinfoil
+            homepage_url: https://tinfoil.sh/
+            logo: tinfoil.svg
       - subcategory:
         name: Associate
         items:
@@ -454,7 +458,3 @@ landscape:
             homepage_url: https://qlad.com/
             logo: qlad.svg
             description: Quantum-safe trust, on autopilot. QLAD keeps your containerized workloads encrypted, attested, and audit-ready across every cloud — set up in under an hour.
-          - item:
-            name: Tinfoil
-            homepage_url: https://tinfoil.sh/
-            logo: tinfoil.svg
