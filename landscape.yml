@@ -451,8 +451,3 @@ landscape:
             homepage_url: https://qlad.com/
             logo: qlad.svg
             description: Quantum-safe trust, on autopilot. QLAD keeps your containerized workloads encrypted, attested, and audit-ready across every cloud — set up in under an hour.
-          - item:
-            name: Trustless Labs
-            homepage_url: https://trustlesslabs.ai/
-            logo: trustless_labs.svg
-            description: Trustless Labs specializes in developing privacy-preserving architecture, focusing on creating highly secure artificial intelligence solutions that prioritize user confidentiality.
