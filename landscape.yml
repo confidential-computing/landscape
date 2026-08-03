@@ -314,13 +314,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/samsung-electronics
           - item:
-            name: Super Protocol
-            homepage_url: https://superprotocol.com/
-            logo: super_protocol.svg
-            description: Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without third parties.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/superprotocol
-          - item:
             name: SUSE LLC
             homepage_url: https://suse.com/
             logo: suse_llc.svg
@@ -329,6 +322,10 @@ landscape:
             twitter: https://twitter.com/SUSE
             extra:
               linkedin_url: https://www.linkedin.com/company/attachmate
+          - item:
+            name: Tinfoil
+            homepage_url: https://tinfoil.sh/
+            logo: tinfoil.svg
       - subcategory:
         name: Associate
         items:
@@ -455,6 +452,7 @@ landscape:
             logo: qlad.svg
             description: Quantum-safe trust, on autopilot. QLAD keeps your containerized workloads encrypted, attested, and audit-ready across every cloud — set up in under an hour.
           - item:
-            name: Tinfoil
-            homepage_url: https://tinfoil.sh/
-            logo: tinfoil.svg
+            name: Trustless Labs
+            homepage_url: https://trustlesslabs.ai/
+            logo: trustless_labs.svg
+            description: Trustless Labs specializes in developing privacy-preserving architecture, focusing on creating highly secure artificial intelligence solutions that prioritize user confidentiality.
