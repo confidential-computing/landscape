@@ -161,6 +161,46 @@ landscape:
             homepage_url: https://corvex.ai/
             logo: corvex.svg
           - item:
+            name: DigiCert, Inc.
+            homepage_url: https://digicert.com/
+            logo: digicert_inc.svg
+            description: |-
+              DigiCert Inc is a privately held, US based X.509 SSL certificate provider. Digicert is backed by Private Equity Firm TA Associates.
+
+              DigiCert, Inc. 
+              2801 North Thanksgiving Way
+              Suite 500 
+              Lehi, Utah 84043
+              1.800.896.7973
+
+              About us
+              DigiCert is the go-to provider of identity, authentication, and encryption solutions for the web and IoT devices. We help enterprises of every size deploy PKI security that aligns with industry standards and best practices. Our SSL tools and enterprise-grade platform simplifies management, automates certificate tasks, and gives organizations the power to customize workflows to best fit their needs.
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              DigiCert Monthly Threat Briefing - June 2018
+
+              Company details
+              Website
+              http://www.digicert.com
+              Headquarters
+              Lehi, Utah
+
+              Year founded
+              2003
+
+              Company type
+              Privately Held
+
+              Company size
+              1,001-5,000 employees
+              Specialties
+              Internet Security, SSL Certificates, Extended Validation SSL, Internet of Things, EV SSL Certificates, Website Security, Managed PKI, Certificate Management, Device Certificates, Mobile Certificates, Encryption Technology, and Identity Assurance
+            crunchbase: https://www.crunchbase.com/organization/digicert
+            twitter: https://twitter.com/digicert
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digicert-inc.
+          - item:
             name: Edgeless Systems
             homepage_url: https://edgeless.systems/
             logo: edgeless_systems.svg
