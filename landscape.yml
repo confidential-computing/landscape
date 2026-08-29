@@ -231,10 +231,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
-            name: Hewlett Packard Enterprise Development LP
+            name: Hewlett Packard Enterprise
             homepage_url: https://hpe.com/
-            logo: hewlett_packard_enterprise_development_lp.svg
-            description: Hewlett Packard Enterprise Development LP provides information technology solutions. The company is based in Houston, Texas.
+            logo: hewlett_packard_enterprise.svg
+            description: Hewlett Packard Enterprise provides information technology solutions. The company is based in Houston, Texas.
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
             twitter: https://twitter.com/HPE
             extra:
