@@ -496,3 +496,13 @@ landscape:
             homepage_url: https://trustlesslabs.ai/
             logo: trustless_labs.svg
             description: Trustless Labs specializes in developing privacy-preserving architecture, focusing on creating highly secure artificial intelligence solutions that prioritize user confidentiality.
+          - item:
+            name: Vertebrae
+            homepage_url: https://vertebrae.ai/
+            logo: vertebrae.svg
+            description: Vertebrae offers a privacy-focused AI notetaking solution for meetings and phone calls, providing end-to-end encryption and on-device transcription to ensure that all participants receive accurate notes while maintaining confidentiality.
+          - item:
+            name: White Point
+            homepage_url: https://whitepoint.co.jp/
+            logo: white_point.svg
+            description: White Point specializes in providing advanced data storage solutions, including software and cloud services for data recovery, data erasure, and data preservation, aimed at protecting personal and corporate data while contributing to society through di...
