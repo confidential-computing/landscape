@@ -431,6 +431,11 @@ landscape:
             logo: 10102.svg
             description: 10102 is a futuristic technology research company focused on next-generation crypto research, investments, and ventures. They specialize in crypto expertise including layer 1&2 protocols, DeFi, NFTs, DAOs, and DIDs, driven by the vision of a future sha...
           - item:
+            name: amotivv, inc.
+            homepage_url: https://amotivv.com/
+            logo: amotivv_inc.svg
+            description: amotivv, inc. is a public benefit FinTech company that offers financial products and solutions to facilitate transparent and accessible philanthropy. Their innovative approach integrates giving into every transaction, empowering everyday philanthropist...
+          - item:
             name: Antriksh Cloud
             homepage_url: https://antriksh.cloud/
             logo: antriksh_cloud.svg
