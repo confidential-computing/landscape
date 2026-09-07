@@ -440,6 +440,11 @@ landscape:
             homepage_url: https://antriksh.cloud/
             logo: antriksh_cloud.svg
           - item:
+            name: Caution SEZC
+            homepage_url: https://caution.co/
+            logo: caution_sezc.svg
+            description: Caution offers an open-source platform designed for encrypted data recovery and escrow, developed by experienced security engineers with a background in notable tech firms.
+          - item:
             name: Confidential AI
             homepage_url: https://confidential.ai/
             logo: confidential_ai.svg
