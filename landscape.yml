@@ -443,7 +443,7 @@ landscape:
             name: Caution SEZC
             homepage_url: https://caution.co/
             logo: caution_sezc.svg
-            description: Caution offers an open-source platform designed for encrypted data recovery and escrow, developed by experienced security engineers with a background in notable tech firms.
+            description: Caution is a hardware- and cloud-agnostic platform focused on making confidential compute easy to use and fully verifiable.
           - item:
             name: Confidential AI
             homepage_url: https://confidential.ai/
