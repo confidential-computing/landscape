@@ -293,7 +293,7 @@ landscape:
             name: OmniTrust Security LLC
             homepage_url: https://omnitrust.com/
             logo: omnitrust_security_llc.svg
-            description: OmniTrust Security LLC is a top provider of end-to-end embedded security solutions for a secure Internet of Things, key management, certificate management, and secure OTA provisioning
+            description: OmniTrust Security LLC provides hardware-rooted trust and lifecycle security for semiconductors, AI infrastructure, and connected systems. OmniTrust helps establish persistent device identity during secure manufacturing and carries that trust through assembly, deployment, operation, firmware and software change, certificate and key management, post-quantum transition, component replacement, and decommissioning. Working across silicon vendors, OEMs, contract manufacturers, and infrastructure operators, OmniTrust enables a consistent trust policy to follow devices from manufacturing through their full operational life.
             extra:
               linkedin_url: https://www.linkedin.com/company/integrity-security-services-llc
           - item:
