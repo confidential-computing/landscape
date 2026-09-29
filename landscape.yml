@@ -488,7 +488,7 @@ landscape:
             name: NEAR
             homepage_url: https://near.ai/
             logo: near.svg
-            description: AI agents for the work your team has been afraid to automate. Private by default, verifiable by design.
+            description: NEAR AI Cloud runs frontier open models inside hardware-secured TEEs. Every request is attested end to end — confidential by default, verifiable by anyone.
           - item:
             name: PremAI
             homepage_url: https://premai.io/
