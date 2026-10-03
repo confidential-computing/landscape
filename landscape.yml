@@ -322,6 +322,11 @@ landscape:
               Develoeprs can deploy any standard Docker application directly into a Trusted Execution Environment (TEE), ensuring AI models and data remain confidential and tamper-proof.
             crunchbase: https://www.crunchbase.com/organization/phala-network
           - item:
+            name: QLAD
+            homepage_url: https://qlad.com/
+            logo: qlad.svg
+            description: Quantum-safe trust, on autopilot. QLAD keeps your containerized workloads encrypted, attested, and audit-ready across every cloud — set up in under an hour.
+          - item:
             name: Qualcomm Technologies, Inc.
             homepage_url: https://qualcomm.com/
             logo: qualcomm_technologies_inc.svg
@@ -460,10 +465,6 @@ landscape:
             logo: confidential_core.svg
             description: Confidential Core.AI specializes in providing secure simulation and digital twin applications powered by generative AI on a sovereign private cloud, focusing on enabling enterprises to safely run AI on their most sensitive data while ensuring trust and...
           - item:
-            name: Confident Security
-            homepage_url: https://confident.security/
-            logo: confident_security.svg
-          - item:
             name: EAGLYS
             homepage_url: https://eaglys.co.jp/
             logo: eaglys.svg
@@ -472,13 +473,6 @@ landscape:
             name: Edera, Inc.
             homepage_url: https://edera.dev/
             logo: edera_inc.svg
-          - item:
-            name: FuriosaAI, Inc.
-            homepage_url: https://furiosa.ai/
-            logo: furiosaai_inc.svg
-            description: FuriosaAI is a next generation semiconductor company that builds AI inference computing solutions with industry defining new chip architecture and software stack, with a focus on hyperscale data centers and enterprise servers that will run massive scal...
-            extra:
-              linkedin_url: https://www.linkedin.com/company/furiosaai
           - item:
             name: Modelyo
             homepage_url: https://modelyo.com/
@@ -496,11 +490,6 @@ landscape:
             description: Prem AI that you Own. Always. Accelerating the Advent of Personalized LLMs. AI That You Own. Always. Seamlessly integrate Generative AI into Your Products with a unified API providing Performance, Reliability, and Full Ownership of Your Models. BENEFIT...
             extra:
               linkedin_url: https://www.linkedin.com/company/premai
-          - item:
-            name: QLAD
-            homepage_url: https://qlad.com/
-            logo: qlad.svg
-            description: Quantum-safe trust, on autopilot. QLAD keeps your containerized workloads encrypted, attested, and audit-ready across every cloud — set up in under an hour.
           - item:
             name: Trustless Labs
             homepage_url: https://trustlesslabs.ai/
