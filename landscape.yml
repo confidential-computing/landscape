@@ -491,6 +491,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/premai
           - item:
+            name: Superasystem
+            homepage_url: https://superasystem.jp/
+            logo: superasystem.svg
+            description: Superasystem株式会社 develops a Runtime Immunity Platform that utilizes advanced technologies such as KeyLessDNA for memory encryption, MukenVault, and SecuOS to protect runtime data, aiming to establish new standards in cybersecurity that enhance trust an...
+          - item:
             name: Trustless Labs
             homepage_url: https://trustlesslabs.ai/
             logo: trustless_labs.svg
