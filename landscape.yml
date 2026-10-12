@@ -15,6 +15,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
+            name: Alpha Compute
+            homepage_url: https://alphacompute.ai/
+            logo: alpha_compute.svg
+            description: Alpha Compute specializes in providing confidential computing solutions, AI-native applications, and data ownership infrastructure to empower digital sovereignty in the 21st century.
+          - item:
             name: Google LLC
             homepage_url: https://google.com/
             logo: google_llc.svg
@@ -490,6 +495,11 @@ landscape:
             description: Prem AI that you Own. Always. Accelerating the Advent of Personalized LLMs. AI That You Own. Always. Seamlessly integrate Generative AI into Your Products with a unified API providing Performance, Reliability, and Full Ownership of Your Models. BENEFIT...
             extra:
               linkedin_url: https://www.linkedin.com/company/premai
+          - item:
+            name: Superasystem
+            homepage_url: https://superasystem.jp/
+            logo: superasystem.svg
+            description: Superasystem株式会社 develops a Runtime Immunity Platform that utilizes advanced technologies such as KeyLessDNA for memory encryption, MukenVault, and SecuOS to protect runtime data, aiming to establish new standards in cybersecurity that enhance trust an...
           - item:
             name: Trustless Labs
             homepage_url: https://trustlesslabs.ai/
