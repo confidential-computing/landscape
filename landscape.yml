@@ -487,7 +487,7 @@ landscape:
             name: NEAR
             homepage_url: https://near.ai/
             logo: near.svg
-            description: NEAR AI Cloud runs frontier open models inside hardware-secured TEEs. Every request is attested end to end — confidential by default, verifiable by anyone.
+            description: NEAR AI Cloud is a private AI inference platform built on confidential computing. Our TEE-hosted open-weight models return a hardware-signed proof with every response, at the same per-token price as ordinary inference.
           - item:
             name: PremAI
             homepage_url: https://premai.io/
