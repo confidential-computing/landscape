@@ -475,6 +475,10 @@ landscape:
             logo: eaglys.svg
             description: EAGLYS Co., Ltd. (EAGLYS) is dedicated to realizing its vision of connecting dormant data in the world, updating society through collective intelligence. The company offers services based on AI technology with a focus on secure computing and data secur...
           - item:
+            name: Mearum
+            homepage_url: https://mearum.com/
+            logo: mearum.svg
+          - item:
             name: Modelyo
             homepage_url: https://modelyo.com/
             logo: modelyo.svg
