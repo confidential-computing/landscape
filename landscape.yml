@@ -31,7 +31,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
+            logo: huawei_technologies_co_ltd.svg
             description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
@@ -446,10 +446,6 @@ landscape:
             logo: amotivv_inc.svg
             description: amotivv, inc. is a public benefit FinTech company that offers financial products and solutions to facilitate transparent and accessible philanthropy. Their innovative approach integrates giving into every transaction, empowering everyday philanthropist...
           - item:
-            name: Antriksh Cloud
-            homepage_url: https://antriksh.cloud/
-            logo: antriksh_cloud.svg
-          - item:
             name: Caution SEZC
             homepage_url: https://caution.co/
             logo: caution_sezc.svg
@@ -467,7 +463,7 @@ landscape:
           - item:
             name: Confidential Core.AI
             homepage_url: https://confidentialcore.ai/
-            logo: confidential_core.svg
+            logo: confidential_core_ai.svg
             description: Confidential Core.AI specializes in providing secure simulation and digital twin applications powered by generative AI on a sovereign private cloud, focusing on enabling enterprises to safely run AI on their most sensitive data while ensuring trust and...
           - item:
             name: EAGLYS
